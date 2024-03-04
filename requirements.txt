@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyTelegramBotApi
+torch
+pandas
+numpy
+transformers
